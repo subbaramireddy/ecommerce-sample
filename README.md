@@ -22,11 +22,6 @@ All inputs and outputs use JSON format.
   GET /image/{id}- View image
   POST /{id}/uploadimage - Upload product image
 
-/group
-  GET / - List of groups
-  POST / - Add group
-  GET /{id} - View group
-  POST /{id} - Update group
 
 /order
   GET / - List of orders
